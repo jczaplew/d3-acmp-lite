@@ -1,7 +1,8 @@
 Adaptive Composite Map Projection (Lite)
 =======
 
-Based on...
+Based on:
+
 1. The Adaptive Composite Map Projection as described and demonstrated
 by Berhard Jenny - http://cartography.oregonstate.edu/pdf/2012_Jenny_AdaptiveCompositeMapProjections.pdf
 
