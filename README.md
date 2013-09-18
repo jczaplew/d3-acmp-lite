@@ -28,3 +28,6 @@ What this interpretation fails to accomplish:
 2. Smooth performance across a range of devices
 
 3. Integration with map tiles at large scales
+
+License:
+CC0 1.0 Universal
