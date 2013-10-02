@@ -2,6 +2,7 @@ Adaptive Composite Map Projection (Lite)
 =======
 
 SVG demo - http://bl.ocks.org/jczaplew/6603431
+
 Canvas demo - http://bl.ocks.org/jczaplew/6798471
 
 Based on:
